@@ -130,7 +130,7 @@ Me chamo JoÃ£o Marcos, tenho 25 anos e sou natural do Rio Grande do Sul. ConcluÃ
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosJJ&theme=dark&include_all&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosJJ&theme=dark&include&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
