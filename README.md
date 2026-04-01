@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo João Marcos, tenho 25 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no ENCCEJA. Atualmente, estou cursando Engenharia de Software na Universidade Unifatecie. Sou apaixonado por tecnologia e me dedico todos os dias a aprender cada vez mais sobre programação.
+Me chamo João Marcos, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software na Universidade Unifatecie. Sou apaixonado por tecnologia e me dedico a aprender cada vez mais sobre programação.
 
 
 ### 🤖 Linguagens e Tecnologias
